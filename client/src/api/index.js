@@ -2,7 +2,7 @@ import axios from 'axios'
 import { clearCookie } from './auth'
 
 const axiosSecure = axios.create({
-  baseURL: 'http://localhost:2000',
+  baseURL: 'https://beach-resort-rust.vercel.app',
   withCredentials: true,
 })
 
