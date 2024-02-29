@@ -23,10 +23,10 @@ The goal is to develop a user-friendly hotel booking platform similar to Airbnb,
 - [react-google-charts](https://www.npmjs.com/package/react-google-charts)
 
 
-### Chack Admin and host view
----admin gmail:---
-admin password:
+### Chack Admin and host view:
+#### admin gmail: stayvista.admin@gmail.com
+#### admin password: stayvista.admin
 
-host gmail:
-host password:
+#### host gmail: mrrony373383@gmail.com
+#### host password: mrrony373383
 
