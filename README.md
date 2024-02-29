@@ -8,7 +8,7 @@ host gmail:
 host password:
 
 
-##Project main goal
+## Project main goal:
 The goal is to develop a user-friendly hotel booking platform similar to Airbnb, providing a seamless experience for users to browse, filter, book, and manage accommodations. The platform will serve both guests and hosts, facilitating property listings, bookings & secure transactions. Admin roles will also be there to monitor overall statistics and manage user roles.
 
 
