@@ -8,17 +8,8 @@ host gmail:
 host password:
 
 
-
-
-
-### All Part Repositories:
-
-- [StayVista Part 1](https://github.com/shakilahmedatik/stay-vista-part1)
-- [StayVista Part 2](https://github.com/shakilahmedatik/stay-vista-part2)
-- [StayVista Part 3](https://github.com/shakilahmedatik/stay-vista-part3)
-- [StayVista Part 4](https://github.com/shakilahmedatik/stay-vista-part4)
-- [StayVista Complete](https://github.com/shakilahmedatik/stay-vista-complete)
-- [StayVista Resources](https://github.com/shakilahmedatik/stay-vista-resources)
+##Project main goal
+The goal is to develop a user-friendly hotel booking platform similar to Airbnb, providing a seamless experience for users to browse, filter, book, and manage accommodations. The platform will serve both guests and hosts, facilitating property listings, bookings & secure transactions. Admin roles will also be there to monitor overall statistics and manage user roles.
 
 
 ### All the packages used in this project:
