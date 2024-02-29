@@ -27,6 +27,6 @@ The goal is to develop a user-friendly hotel booking platform similar to Airbnb,
 #### admin gmail: stayvista.admin@gmail.com
 #### admin password: stayvista.admin
 
-#### host gmail: mrrony373383@gmail.com
-#### host password: mrrony373383
+#### host gmail: stayvista.host@gmail.com
+#### host password: stayvista.host
 
